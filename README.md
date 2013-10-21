@@ -18,6 +18,11 @@ Other
 
 For suggestions and/or bug reporting, contact me at 'ciccio.guarneri@gmail.com'.
 
+Project coded with:
+- Geany IDE
+- Some C8H10N4O2 :D
+
+
 That's all, enjoy! :-D
 
 
