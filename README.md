@@ -2,7 +2,7 @@ UMM (Universal Music Manager)
 ===
 
 Universal Music Manager is a small project written in Python for managing your Google Play Music account
-and take lyrics of any song (this feature not require login). Actually work in progress. 
+and take lyrics of any song (this feature does not require login). Actually it is a work in progress. 
 
 Features
 ===
