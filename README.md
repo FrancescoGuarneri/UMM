@@ -13,6 +13,13 @@ Features
 - Lyrics (you can to get any lyrics and show in Terminal and save them in a txt file)
 - Playlist downloader (WORK IN PROGRESS, not present in this version).
 
+Dependencies
+===
+
+- gmusicapi 2.0.0 available at https://pypi.python.org/packages/source/g/gmusicapi/gmusicapi-2.0.0.tar.gz
+
+You want to install this modules for the correct UMM's running.
+
 Other
 ===
 
