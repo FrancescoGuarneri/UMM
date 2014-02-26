@@ -17,8 +17,7 @@ Dependencies
 ===
 
 - gmusicapi 2.0.0 available at https://pypi.python.org/packages/source/g/gmusicapi/gmusicapi-2.0.0.tar.gz
-
-You want to install this modules for the correct UMM's running.
+-You have to install this modules for the correct UMM's running.
 
 Other
 ===
